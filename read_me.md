@@ -1,9 +1,4 @@
-# P9 · Few-Shot Data Labeler
-
-**Author:** Aman Chavan (Roll No. 9)  
-**Course:** Generative AI Mini-Project  
-**Live Application:** [Insert Streamlit Community Cloud URL Here]  
-**Demo Video:** [Insert YouTube/Drive Video Link Here]  
+# Few-Shot Data Labeler
 
 ## Project Overview
 This project is an end-to-end Generative AI pipeline designed to label unlabelled support tickets using a Large Language Model (LLM) and use that data to fine-tune a smaller, efficient student model (DistilBERT). The pipeline includes automated synthetic data generation for rare classes and a robust bias/noise audit of the LLM's predictions.
