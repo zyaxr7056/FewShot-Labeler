@@ -1,0 +1,15 @@
+venv/
+env/
+.env
+pycache/
+*.pyc
+*.pyo
+*.pyd
+.Python
+models/distilbert_finetuned/
+*.bin
+*.pt
+*.safetensors
+.streamlit/secrets.toml
+.DS_Store
+Thumbs.db

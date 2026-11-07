@@ -1,0 +1,8 @@
+ticket_id,text,llm_predicted_class,llm_confidence_score,needs_review
+1,I cannot log into my account even after resetting my password.,Error,0.0,True
+2,The screen on my company laptop is completely black and won't turn on.,Error,0.0,True
+3,Can you add a dark mode toggle to the dashboard?,Error,0.0,True
+4,My credit card was billed $50 instead of the usual $30.,Error,0.0,True
+5,The system throws a 500 error when I try to download the monthly report.,Error,0.0,True
+7,Is there a way to export the user list to Excel?,Error,0.0,True
+8,I did not receive the invoice for this month's billing cycle.,Error,0.0,True

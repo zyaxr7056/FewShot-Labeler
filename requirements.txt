@@ -1,0 +1,8 @@
+streamlit==1.32.0
+torch==2.2.1
+transformers==4.38.2
+pandas==2.2.1
+scikit-learn==1.4.1.post1
+plotly==5.19.0
+python-dotenv==1.0.1
+huggingface-hub==0.21.4
